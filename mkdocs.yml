@@ -29,7 +29,7 @@ pages:
     - "Direct pay": 'using-funds/direct-pay.md'
     - "Expense reports": 'using-funds/expense-reports.md'
     - "Pex cards": 'using-funds/pex-cards.md'
-- "School Factory (historical)"
+- "School Factory (historical)":
     - "Overview": 'school-factory/README.md'
     - "Bridge chapter policies": 'school-factory/bridge-chapter-policies.md'
     - "Monitoring your funds": 'school-factory/monitoring-your-funds.md'
