@@ -30,7 +30,7 @@ pages:
     - "Expense reports": 'using-funds/expense-reports.md'
     - "Pex cards": 'using-funds/pex-cards.md'
 - "Corporate Docs":
-    - "Virtual Offices": 'corporate-docs/README.md'
+    - "Overview": 'corporate-docs/README.md'
 - "School Factory (historical)":
     - "Overview": 'school-factory/README.md'
     - "Bridge chapter policies": 'school-factory/bridge-chapter-policies.md'
