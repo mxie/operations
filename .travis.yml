@@ -8,7 +8,6 @@ before_install:
   - pip install --user mkdocs
 
 script:
-  - mkdir -p /tmp/generated
   - PATH=$PATH:$HOME/.local/bin mkdocs build -d public
 
 deploy:
