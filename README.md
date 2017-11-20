@@ -19,7 +19,7 @@ terminal app and navigate to the folder with the operations
 guide. Then, run the following commands. Note that if you get any
 `Command not found` errors, you might need to run
 [get-pip.py](https://packaging.python.org/tutorials/installing-packages/)
-first.)
+first.
 
 ```
 virtualenv tmp/docs-virtualenv
