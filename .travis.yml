@@ -5,11 +5,11 @@ node_js:
   - "node"
 
 before_install:
-  - pip install mkdocs
+  - pip install --user mkdocs
 
 script:
   - mkdir -p /tmp/generated
-  - mkdocs build -d public
+  - PATH=$PATH:$HOME/.local/bin mkdocs build -d public
 
 deploy:
   skip_cleanup: true
