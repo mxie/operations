@@ -1,6 +1,7 @@
 site_name: BridgeFoundry Operations
 docs_dir: docs/
 repo_url: https://github.com/bridgefoundry/operations
+theme: 'readthedocs'
 pages:
 - "Home": 'index.md'
 - docs:
@@ -51,4 +52,3 @@ pages:
     - pex-cards: 'school-factory/using-funds/pex-cards.md'
     - working-with-vendors: 'school-factory/using-funds/working-with-vendors.md'
     - workshop-expenses: 'school-factory/using-funds/workshop-expenses.md'
-
