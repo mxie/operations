@@ -1,5 +1,4 @@
 # PEX Card
-**IMPORTANT NOTE: Pex cards are currently in transition as part of our switch from our fiscal sponsor. If you expect to need a Pex card, please contact us at finance@bridgefoundry.org before filling out the application so we can discuss options until the transition is complete.**
 
 A Pex Card works as a debit card and it is designed to add greater flexibility and accessibility to funds for Chapter and Bridge Leaders. 
 
@@ -24,4 +23,4 @@ When you receive your card in the mail, contact finance@bridgefoundry.org to act
 
    Your card can have a maximum of $3,000 on it at any given time. This policy exists to minimize financial risk from stolen cards and/or fraudulent charges. If you expect to need a lot of funds in a short time, let us know how much you will need overall and then communicate as you spend funds and need more added.
 - **Monitor your funds:** You can check your account balance by logging in here: https://ch.pexcard.com/  The balance on our master accounting spreadsheet reflects total available funds, including what is on your Pex card. It does not indicate how much is on the card. You must make a request for us to transfer funds to Pex.
-- **Reporting:** Be sure to submit an expense report every month that there are any charges on the card. The report is due within 5 days of the end of the month. Failure to submit an expense report within 7 days of a workshop or any misuse of funds may result in the revocation of PEX Card privileges.  
+- **Reporting:** Be sure to submit an expense report every month that there are any charges on the card. The report is due within 5 days of the end of the month. Failure to submit an expense report on time or any misuse of funds may result in the revocation of PEX Card privileges.  
