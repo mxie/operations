@@ -9,17 +9,18 @@ Note: When a Chapter leader steps down, if a new leader is not identified, the c
 
 ## Bridge Foundry's Responsibilities
 As long as your Chapter remains active and works in a way that is consistent with our mission and policies, Bridge Foundry will:
+
 * Provide infrastructure for accepting online donations and send gift receipts 
-  * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
+    * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
 * Hold funds raised for the chapter in reserve for your chapter’s sole use
-  * If the chapter reverts to a Community Chapter, we reserve the right to allocate the funds elsewhere. AND, we will check in with you before that change to understand if you have workshops planned as a Community Chapter so we can use the remaining funds for a grant to the chapter. 
+    * If the chapter reverts to a Community Chapter, we reserve the right to allocate the funds elsewhere. AND, we will check in with you before that change to understand if you have workshops planned as a Community Chapter so we can use the remaining funds for a grant to the chapter. 
 * Track financial transactions for your chapter in a location you can access to view history and chapter balance (currently via public spreadsheet)
 * Make it easy for your chapter leaders to spend funds available to it by:
-  * Providing an expense card for direct purchases to one chapter leader (currently via Pex)
-  * Providing reimbursements to all chapter leaders (currently via Expensify)
+    * Providing an expense card for direct purchases to one chapter leader (currently via Pex)
+    * Providing reimbursements to all chapter leaders (currently via Expensify)
 * Facilitate access to discounts and benefits available via our non profit structure where possible
-  * This is dependent on a) what we can practically support, and b) ensuring equal access for all chapters
-  * In many cases this is as simple as providing our tax exemption letter so that a donor will make an in-kind donation or provide a discount
+    * This is dependent on a) what we can practically support, and b) ensuring equal access for all chapters
+    * In many cases this is as simple as providing our tax exemption letter so that a donor will make an in-kind donation or provide a discount
 * Provide guidance and advice as desired for developing your events and building your community
 * Provide guidance and support in situations where someone breaks the code of conduct or you run into other challenges at a workshop
 * Review contracts and agreements you want Bridge Foundry to enter for your chapter, determine whether it is appropriate for the organization to make the agreement, and handle signing if so.
@@ -28,6 +29,7 @@ As long as your Chapter remains active and works in a way that is consistent wit
 ## Chapter Leader's Responsibilities
 ### Leadership & communications
 By signing the Volunteer Agreement, Chapter Leaders agree to:
+
 * Serve as a chapter leader for the next year (365 days after the signing of this agreement).
 * Meet with their Bridge leader and/or a volunteer mentor once a year to share knowledge about successes and challenges.
 * Respond to Bridge Foundry’s inquiry after a year to let us know who will be leading the chapter next year. If they don’t respond, Bridge Foundry will convert the chapter to a Community Chapter.
@@ -37,6 +39,7 @@ By signing the Volunteer Agreement, Chapter Leaders agree to:
 
 ### Spending money
 By signing the Volunteer Agreement, Chapter Leaders agree to:
+
 * Keep their expense card in a safe location and not share it with anyone else.
 * Spend funds only on approved expense categories, according to [approved expenses policy](https://rebrand.ly/bf-approved-expenses-policy).
 * Submit receipts for all expense card purchases by the 5th day of the month following the month they were incurred. (currently via Expensify)
