@@ -10,12 +10,14 @@ Volunteer Fundraisers have a term of one year (365 days). If they wish to contin
 
 ## Bridge Foundry's Responsibilities
 During your term as Volunteer Fundraiser (as long as you follow policies), Bridge Foundry will:
+
 - Provide materials about Bridge Foundry that you can use in conversations with donors
 - Answer your questions about processing donations
 - Allocate funds you raise to the chapter, program, or purpose indicated on the volunteer agreement as long as there are active volunteers who need funding for mission-aligned activities, consistent with our operational policies.
 
 ## Volunteer Fundraiser's Responsibilities:
 By signing the Volunteer Agreement, Volunteer Fundraisers agree to:
+
 - Explain to donors that donations are technically raised as “unrestricted funds,” which Bridge Foundry will apply for the specific purpose you’re raising them for to the extent practical and that they may also be applied to other activities in support of Bridge Foundry’s mission if there are leftover funds or a group of volunteers becomes inactive. (See “unrestricted funds” note below.)
   - If any online fundraising component is approved for my fundraising campaign, include specific language provided by Bridge Foundry on the campaign page about the funds being unrestricted 
 - Refrain from soliciting particular donors if requested by Bridge Foundry (See "solicitation limitations" note below.)
