@@ -29,3 +29,10 @@ tmp/docs-virtualenv/bin/mkdocs serve
 
 Now **http://127.0.0.1:8000** should contain a live preview of the
 website.
+
+## Formatting with mkdocs
+Here are the special things that mkdocs needs to display the markdown appropriately:
+
+- New line between a paragraph and bullet points in order for bullet points to display
+- Four spaces before a sub-bullet (rather than 2 spaces)
+   - Like this!
