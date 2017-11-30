@@ -1,4 +1,6 @@
 # Requesting an Invoice
+Note: anyone requesting an invoice must first be signed up as a [Volunteer Fundraiser](https://rebrand.ly/volunteer-fundraiser-policies) by signing the [Volunteer Agreement](https://rebrand.ly/bridge-foundry-volunteer-agreement).
+
 In order to receive payment from a sponsor, please complete the [Bridge Foundry Invoice Request Form](https://docs.google.com/forms/d/1gu6WG2Nifj_579VhML_KZWpvi0bM0YpqsgZptSmU6Lw/viewform). An electronic invoice will be sent to the recipient's email address you specified in the request form within a week at the most (usually within a couple of business days). You will know when it goes out, because we cc you on the email as well. If you don't see the invoice go out within a few days, feel free to follow up with us at finance@bridgefoundry.org. Please complete one form for each sponsor/payment.
 
 ## Payment Methods
