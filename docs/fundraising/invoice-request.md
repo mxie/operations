@@ -1,5 +1,5 @@
 # Requesting an Invoice
-In order to receive payment from a sponsor, please complete the [Bridge Foundry Invoice Request Form](https://docs.google.com/forms/d/1gu6WG2Nifj_579VhML_KZWpvi0bM0YpqsgZptSmU6Lw/viewform). An electronic invoice will be sent to the recipient's email address you specified in the request form within a week at the most (usually within a couple of business days). You will know when it goes out, because we cc you on the email as well. If you don't see the invoice go out within a few days, feel free to follow up with us at finance@bridgefoundry.org. Please complete one form for each sponsor/payment.
+In order to receive payment from a sponsor, please complete the [Bridge Foundry Invoice Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdUBNaXJP_DwF9wOQCKid1MnVM0a6yU5-i_7hvny7IMqCNLKw/viewform?usp=sf_link). An electronic invoice will be sent to the recipient's email address you specified in the request form within a week at the most (usually within a couple of business days). You will know when it goes out, because we cc you on the email as well. If you don't see the invoice go out within a few days, feel free to follow up with us at finance@bridgefoundry.org. Please complete one form for each sponsor/payment.
 
 ## Payment Methods
 The sponsor may pay by any of the following methods once they receive the invoice:
