@@ -5,7 +5,7 @@ A Pex Card works as a debit card and it is designed to add greater flexibility a
 Each card costs us $7.50/month, so we need to reserve these cards for active Chapters and Bridges. Signing an agreement as a Chapter Leader or Bridge Leader qualifies you for a Pex card, and we ask that if you only expect to charge expenses to it very rarely, you consider doing reimbursements or direct pay instead so we can keep these maintenance fees lower.
 
 ## Application Process
-Complete the [PEX Card Application & Agreement](https://docs.google.com/forms/d/e/1FAIpQLSfBOXNfUno-gG8AlTGln3gg8ifTzupuFJ0RCLdophyd86T2FQ/viewform?usp=sf_link) form. Be prepared to provide the following information:
+Complete the [PEX Card Application & Agreement](https://docs.google.com/forms/d/e/1FAIpQLSfv5xWcx1g1hKcbZWHuyBfW9yt2-JI7tTYYRizQHdu5nlK3ig/viewform?usp=sf_link) form. Be prepared to provide the following information:
 
 - Your First and Last Name
 - Address
