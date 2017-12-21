@@ -4,6 +4,12 @@ repo_url: https://github.com/bridgefoundry/operations
 theme: 'readthedocs'
 pages:
 - "Home": 'index.md'
+- "Roles":
+    - "Overview": 'roles/README.md'
+    - "Bridge leader policies": 'roles/bridge-leader-policies.md'
+    - "Chapter leader policies": 'roles/chapter-leader-policies.md'
+    - "Program leader policies": 'roles/program-leader-policies.md'
+    - "Volunteer fundraiser policies": 'roles/volunteer-fundraiser-policies.md'
 - "Fundraising":
     - "Overview": 'fundraising/README.md'
     - "Employer match": 'fundraising/employer-match.md'
@@ -14,25 +20,14 @@ pages:
     - "Overview": 'grants/README.md'
     - "Funded grants": 'grants/funded-grants.md'
     - "Seed grants": 'grants/seed-grants.md'
-- "Internal process":
-    - "Grant decision guidelines": 'internal-process/grant-decision-guidelines.md'
-    - "Monitoring funds": 'monitoring-funds.md'
-- "Roles":
-    - "Overview": 'roles/README.md'
-    - "Bridge leader policies": 'roles/bridge-leader-policies.md'
-    - "Chapter leader policies": 'roles/chapter-leader-policies.md'
-    - "Program leader policies": 'roles/program-leader-policies.md'
-    - "Volunteer fundraiser policies": 'roles/volunteer-fundraiser-policies.md'
 - "Using funds":
     - "Overview": 'using-funds/README.md'
     - "Approved expenses policy": 'using-funds/approved-expenses-policy.md'
     - "Direct pay": 'using-funds/direct-pay.md'
     - "Expense reports": 'using-funds/expense-reports.md'
     - "Pex cards": 'using-funds/pex-cards.md'
+- "Monitoring funds": 'monitoring-funds.md'
+- "Internal process":
+    - "Grant decision guidelines": 'internal-process/grant-decision-guidelines.md'
 - "Corporate Docs":
     - "Overview": 'corporate-docs/README.md'
-- "School Factory (historical)":
-    - "Overview": 'school-factory/README.md'
-    - "Bridge chapter policies": 'school-factory/bridge-chapter-policies.md'
-    - "Monitoring your funds": 'school-factory/monitoring-your-funds.md'
-    

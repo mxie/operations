@@ -5,24 +5,25 @@ Each Bridge represents a set of curriculum developed for a programming language 
 Bridges are a legal part of Bridge Foundry, Inc., a US nonprofit organization. This document outlines the support Bridge Foundry agrees to provide to leaders, and what the leader agrees to do in return.
 
 ## Term of Leadership
-Bridge Leaders commit to a one year term. One Bridge Leader takes responsibility for communications between Bridge Foundry and the Bridge leadership team, representing their Bridge on the Program Board and informing Bridge Foundry about new leaders. Bridge board members recruit new leaders regularly to create a sustainable leadership team, with mentorship from Bridge Foundry staff and volunteers as needed.. Serving multiple terms is an option for Bridge leaders, though Bridge Foundry encourages turnover in this role to cultivate new leaders in your community. If we have not heard from you when your term is up,Bridge Foundry will check in with you to confirm who will be the leader for the next year, and complete an agreement with them.  
+Bridge Leaders commit to a one year term. One Bridge Leader takes responsibility for communications between Bridge Foundry and the Bridge leadership team, representing their Bridge on the Program Board and informing Bridge Foundry about new leaders. Bridge board members recruit new leaders regularly to create a sustainable leadership team, with mentorship from Bridge Foundry staff and volunteers as needed. Serving multiple terms is an option for Bridge leaders, though Bridge Foundry encourages turnover in this role to cultivate new leaders in your community. If we have not heard from you when your term is up,Bridge Foundry will check in with you to confirm who will be the leader for the next year, and complete an agreement with them.  
 
 ## Bridge Foundry's Responsibilities
 As long as your Bridge remains active and works in a way that is consistent with our mission and policies, Bridge Foundry will:
+
 * Accept online donations for the Bridge
-  * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
+    * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
 * Hold funds raised for the Bridge in reserve for your Bridge’s use
-  * If the Bridge becomes inactive, we may seek out new leaders. When there are no leaders for a Bridge, we reserve the right to allocate the funds to other programs to support our mission.
+    * If the Bridge becomes inactive, we may seek out new leaders. When there are no leaders for a Bridge, we reserve the right to allocate the funds to other programs to support our mission.
 * Track financial transactions for your bridge in a location you can access to view history and bridge balance (currently via public spreadsheet)
 * Make it easy for your bridge leaders to spend funds available by:
-  * Providing a expense card for direct purchases to one bridge leader (currently via Pex)
-  * Providing reimbursements to all bridge leaders (currently via Expensify)
+    * Providing a expense card for direct purchases to one bridge leader (currently via Pex)
+    * Providing reimbursements to all bridge leaders (currently via Expensify)
 * Facilitate access to discounts and benefits available via our non profit structure where possible
-  * This is dependent on a) what we can practically support, and b) ensuring equal access for all bridges
-  * In many cases this is as simple as providing our tax exemption letter so that a donor will make an in-kind donation or provide a discount
+    * This is dependent on a) what we can practically support, and b) ensuring equal access for all bridges
+    * In many cases this is as simple as providing our tax exemption letter so that a donor will make an in-kind donation or provide a discount
 * Provide free online service, such as:
-  * Domain name registration 
-  * Use of G Suite (aka Google Apps), including email addresses connected to your domain, groups, and docs
+    * Domain name registration 
+    * Use of G Suite (aka Google Apps), including email addresses connected to your domain, groups, and docs
 * Provide guidance and advice for building your community
 * Provide guidance and support in situations where someone breaks the code of conduct or you run into other challenges
 * Hold regular Program Board meetings, which a representative of your bridge will attend for the purpose of learning about the activities of other bridges and providing input to shape policy and influence program decisions
@@ -32,6 +33,7 @@ As long as your Bridge remains active and works in a way that is consistent with
 ## Bridge Leader's Responsibilities
 ### Leadership & communications
 By signing the Volunteer Agreement, Bridges Leaders agree to:
+
 * Recruit a full board of at least three people if one is not already in place
 * Work with their Bridge board to create a succession plan and ensure the longevity of the bridge
 * Serve as a bridge leader for the next year (365 days after the signing of this agreement).
@@ -43,6 +45,7 @@ By signing the Volunteer Agreement, Bridges Leaders agree to:
 
 ### Spending money
 By signing the Volunteer Agreement, Bridges Leaders agree to:
+
 * Keep their expense card in a safe location and not share it with anyone else.
 * Spend funds only on approved expense categories, according to [approved expenses policy](https://rebrand.ly/bf-approved-expenses-policy).
 * Contact Bridge Foundry for approval, signature, and management of contract if the bridge wants to hire an independent contractor to do work for the Bridge. (Bridge Foundry will enable this option if practical given internal policies and capacity.)
