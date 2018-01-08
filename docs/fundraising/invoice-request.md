@@ -6,18 +6,18 @@ In order to receive payment from a sponsor, please complete the [Bridge Foundry 
 ## Payment Methods
 The sponsor may pay by any of the following methods once they receive the invoice:
 
-* Check (default option; no fee)
-* ACH (integrated into invoice if requested; flat 50¢ fee)
-* Credit card (integrated into invoice if requested; 3.40% + 25¢ fee)
-* PayPal (not preferred but an option if they ask; your group absorbs 2.2% + 30¢ fee)
+- Check (default option; no fee)
+- ACH (integrated into invoice if requested; flat 50¢ fee)
+- Credit card (integrated into invoice if requested; 3.40% + 25¢ fee)
+- PayPal (not preferred but an option if they ask; your group absorbs 2.2% + 30¢ fee)
 
 When you fill out the Invoice Request Form, you can select which payment options you want activated on the invoice. In order to maximize your donation, we recommend either leaving the credit option off or asking them if they will consider covering the fees. Many sponsors prefer the convenience of credit card transactions and are happy to pay a few dollars more to cover the transaction fee, in which case we can include that as an additional line item on the invoice.
 
 ## Payment Follow Up
 Once you submit an invoice request, we will follow up to ensure payment comes through.
 
-* After about a month with no payment, we remind the sponsor about paying
-* After about 2 months with no payment, we will ask you to follow up with the sponsor directly
+- After about a month with no payment, we remind the sponsor about paying
+- After about 2 months with no payment, we will ask you to follow up with the sponsor directly
 
 If you are curious about the status of the payment at any time, you can click on the original emailed invoice (it will be marked "Paid" in big letters if we have received payment). 
 
