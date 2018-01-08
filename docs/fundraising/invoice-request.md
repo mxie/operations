@@ -5,6 +5,7 @@ In order to receive payment from a sponsor, please complete the [Bridge Foundry 
 
 ## Payment Methods
 The sponsor may pay by any of the following methods once they receive the invoice:
+
 * Check (default option; no fee)
 * ACH (integrated into invoice if requested; flat 50¢ fee)
 * Credit card (integrated into invoice if requested; 3.40% + 25¢ fee)
@@ -14,6 +15,7 @@ When you fill out the Invoice Request Form, you can select which payment options
 
 ## Payment Follow Up
 Once you submit an invoice request, we will follow up to ensure payment comes through.
+
 * After about a month with no payment, we remind the sponsor about paying
 * After about 2 months with no payment, we will ask you to follow up with the sponsor directly
 
