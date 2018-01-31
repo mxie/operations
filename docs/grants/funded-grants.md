@@ -4,7 +4,7 @@ Funded Grants are when a [Volunteer Fundraiser](https://rebrand.ly/volunteer-fun
 Note: this category does not apply to Chapters, as funds they raise via Volunteer Fundraisers are available for their direct use.
 
 ## Apply for a Funded Grant
-To apply for the grant, just fill out this [Application Form](https://docs.google.com/forms/d/e/1FAIpQLScyFx1Js_1vIz5ZcPZ6niJ-CMHZyTpbHRMgm1SrZnoI8mnRQg/viewform). Select "We (will) have funds raised specifically for our Community" since you plan to raise money to cover the workshop(s).
+To apply for the grant, just fill out this [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfKPyI0kcPqr18i18x-yErKoCayKMxylbhMBe4fdgDuMe6LYQ/viewform?usp=sf_link). Select "We (will) have funds raised specifically for our Community" since you plan to raise money to cover the workshop(s).
 
 If you plan to hold and raise funds for multiple workshops in a year, you can submit just one application for them all. Just indicate how many workshops you plan to hold as part of the grant.
 
