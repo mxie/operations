@@ -7,7 +7,7 @@ In addition to following the directions below for getting set up on Expensify in
 
 ## Get Set Up On Expensify (One time)
 
-1. Complete and submit [this form](http://goo.gl/forms/7PjAqgoGM2).
+1. Complete and submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSc3PrzT5N_41_JZMqS9fmG2bwE3oQxua2Eln_CtsuKDDl5kow/viewform?usp=sf_link).
 
 
 2. Once you have received an email from Expensify notifying you that you have been added to the “Bridge Foundry Policy,” create an account on Expensify. You can sign in with an existing account like Google or set up a username and password. (You should be set up within two business days. If you do not receive an Expensify confirmation that you have been added to the “Bridge Foundry Policy” within that time frame, please email finance@bridgefoundry.org.)
