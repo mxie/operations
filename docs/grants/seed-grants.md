@@ -4,7 +4,7 @@ Any organizer who wants to hold a Bridge workshop that supports the Bridge Found
 As soon as you think you may need funds, please apply! Since some parts of the funding process can take a week or more, it's better to start working on funding earlier in your event planning than in the last few weeks. We can always convert the grant from a Seed Fund Grant to a Funded Grant if you end up being successful in raising sponsorship money after all.
 
 ## Apply for a Seed Fund Grant
-To apply for the grant, just fill out this [Application Form](https://docs.google.com/forms/d/e/1FAIpQLScyFx1Js_1vIz5ZcPZ6niJ-CMHZyTpbHRMgm1SrZnoI8mnRQg/viewform). Select "We are seeking a seed fund grant" since you don't have funds in place to cover the cost.
+To apply for the grant, just fill out this [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfKPyI0kcPqr18i18x-yErKoCayKMxylbhMBe4fdgDuMe6LYQ/viewform?usp=sf_link). Select "We are seeking a seed fund grant" since you don't have funds in place to cover the cost.
 
 ## Approval Process
 Grant applications are evaluated within a week of submission, usually a few days. 
