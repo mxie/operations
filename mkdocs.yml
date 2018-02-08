@@ -28,6 +28,7 @@ pages:
     - "Pex cards": 'using-funds/pex-cards.md'
 - "Monitoring funds": 'monitoring-funds.md'
 - "Internal process":
+    - "Overview": 'internal-process/README.md'
     - "Grant decision guidelines": 'internal-process/grant-decision-guidelines.md'
 - "Corporate Docs":
     - "Overview": 'corporate-docs/README.md'
