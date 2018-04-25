@@ -31,7 +31,7 @@ In addition to following the directions below for getting set up on Expensify in
    
 2. Double check that your report meets the following criteria - these are required for reimbursement!
     - All expenses must have itemized receipts attached. (Include both itemized receipt and payment receipt if tips included in final total. Invoices that don't list an amount paid do not count as receipts. We need to see that you paid the invoice. Use our [template](https://drive.google.com/file/d/0ByFHpp-IkBaFbnBZTndCWTktcmc/view?usp=sharing) for on-site service providers if they don't provide receipts.) See note at the bottom of this page about how to submit multiple receipts!
-    - Expenses must be for a chapter or fund for which you are approved to submit expenses, and must follow our [allowed expense policy](https://github.com/bridgefoundry/operations/blob/master/using-funds/approved-expenses-policy.md)
+    - Expenses must be for a chapter or fund for which you are approved to submit expenses, and must follow our [approved expenses policy](https://operations.bridgefoundry.org/using-funds/approved-expenses-policy/)
 
 ![](https://lh3.googleusercontent.com/rRTZcD2dWM6CwDQGjCKGJM_AXwfBBWmfYcP87CJze6wjjLEGfIWSmSoy9YoYNkIpPh9a7BeHf37X1Eqne65WWhE-XbNXt3SJBoLTpJSMR2lYgEk_8aIYCaR-eqiCiMdD2gAGkoM)
 
