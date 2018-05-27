@@ -1,6 +1,6 @@
 # Bridge Foundry virtual office
 
-> Bridge Foundry is committed to transparency in all of its operations, while keeping private information of individuals private to ensure safety and respect, and Bridge Foundry seeks to create policies to support its goals of transparency without creating an operational burden on the organization.  
+> Bridge Foundry is committed to transparency in all of its operations, while keeping private information of individuals private to ensure safety and respect, and Bridge Foundry seeks to create policies to support its goals of transparency without creating an operational burden on the organization.
 — Board of Director’s resolution, 2017-07-30 minutes
 
 ## Front Office
@@ -9,14 +9,16 @@ Public information of the corporation
 
 Current Board of Directors:
 
-* Sarah Allen, Chair
-* Isa Herico, Secretary
-* Karen Herreid, Treasurer
+* Ilen Zazueta-Hall, Chair
+* Isa Herico
+* Karen Herreid
+* Sarah Allen
 
 Current corporate Officers:
 
 * Sarah Allen, CEO
-* Diana Luepke, COO
+* Isa Herico, Secretary
+* Karen Herreid, Treasurer
 
 Legal & governance documents:
 
@@ -38,7 +40,7 @@ EIN: 82-2172655
 
 ## Back Office
 
-We keep information with Personally Identifiable Information (PII) private.  Our official records are kept in different virtual locations: 
+We keep information with Personally Identifiable Information (PII) private.  Our official records are kept in different virtual locations:
 
 * List of Director & Officer contact info (private doc shared with Board of Directors and Officers)
 * Financial Records will be kept in an online accounting system
