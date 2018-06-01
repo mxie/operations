@@ -23,7 +23,7 @@ If grant applications exceed current funding, Bridge Foundry staff will assess i
 ## Receiving & Using Funds
 Once the grant is approved, there are two ways to make use of the funds:
 1. **Reimbursement** (preferred): Make the purchases and submit your receipts for reimbursement. Expensify deposits the reimbursement straight into your bank account.
-2. **Cash Advance**: For those who can't afford to get reimbursed, we can send you the funds via check or PayPal. You will be required to submit your receipts within 7 days and send back any extra money you didn't use.
+2. **Direct pay**: For those who can't afford to get reimbursed, we can arrange to pay for expenses directly by processing payment for an invoice from them or calling them with credit card information. This option requires some lead time to make arrangements.
 
 Learn more about spending the money under [Using Funds](https://github.com/bridgefoundry/operations/tree/master/using-funds).
 
