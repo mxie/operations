@@ -1,5 +1,5 @@
 # Expense Reports
-Expense reports are required for all expenditures via reimbursement (within a month of purchase), cash advance (within a week of purchase), and Pex card (by 5 days after month end).
+Expense reports are required for all expenditures via reimbursement (within a month of purchase) and Pex card (by 5 days after month end).
 
 Expense report submissions are done via Expensify.  Our goal is to make this easy for volunteers.  If any of this presents a hardship, please [let us know](mailto:finance@bridgefoundry.org)!  We're always looking for ways to streamline our processes.
 
