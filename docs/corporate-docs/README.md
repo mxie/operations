@@ -11,14 +11,14 @@ Current Board of Directors:
 
 * Ilen Zazueta-Hall, Chair
 * Isa Herico
-* Karen Herreid
 * Sarah Allen
 
 Current corporate Officers:
 
 * Sarah Allen, CEO
 * Isa Herico, Secretary
-* Karen Herreid, Treasurer
+
+Treasurer position is currently vacant
 
 Legal & governance documents:
 
