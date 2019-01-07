@@ -1,8 +1,10 @@
-**BRIDGE FOUNDRY, INC.**
 
-**General Signatory And Banking Authority Policy**
+# General Signatory And Banking Authority Policy
 
-**Adopted Oct 8, 2017**
+Bridge Foundry, Inc.
+
+Adopted Oct 8, 2017
+
 
 _Banking_
 

@@ -1,4 +1,4 @@
-#GIFT ACCEPTANCE POLICY 
+# GIFT ACCEPTANCE POLICY
 
 Adopted 8/7/2017
 
@@ -6,7 +6,7 @@ Adopted 8/7/2017
 
 Bridge Foundry, Inc. (the "Corporation") welcomes commitments and gifts of financial support from any interested person or organization.  The Corporation's staff is pleased to meet with prospective donors and their advisors to explore their interests, the needs of the Corporation, the various gift options and the related tax consequences.  The Corporation will advise all donors to seek their own tax and legal counsel and will in no event render tax, legal or financial advice.
 
-As a general rule, current gifts are encouraged in favor of deferred gifts.  Similarly, the Corporation encourages unrestricted gifts, but recognizes the importance of restrictions to some donors in ensuring that their particular interests are supported or funded.  Restricted gifts are therefore welcome, but only at specified funding levels and with the express understanding that the Corporation may use the funds as it deems appropriate if the donor's particular interest is no longer viable. 
+As a general rule, current gifts are encouraged in favor of deferred gifts.  Similarly, the Corporation encourages unrestricted gifts, but recognizes the importance of restrictions to some donors in ensuring that their particular interests are supported or funded.  Restricted gifts are therefore welcome, but only at specified funding levels and with the express understanding that the Corporation may use the funds as it deems appropriate if the donor's particular interest is no longer viable.
 
 _Note:  The Corporation does not offer donor advised funds.  Donor restrictions, if any, must be made at the time the gift is made and must be limited to a particular use or activity conducted by the Corporation._
 
