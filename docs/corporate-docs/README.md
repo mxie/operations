@@ -27,7 +27,7 @@ Legal & governance documents:
 * [Organization statement (elects the board)](https://drive.google.com/file/d/0B15PjYEwl2GNUktDdjV5eEZXRVU/view)
 * [Written consent of initial board of directors (adopts bylaws and elects officers)](https://drive.google.com/file/d/0BzPWVMj9wWa6dFFZV2ZtUU9UM2s/view)
 * [IRS exemption determination letter](https://drive.google.com/file/d/0B15PjYEwl2GNY2JzT1JIblZpdnM/view)
-* [Corporate policies](https://drive.google.com/drive/folders/0B15PjYEwl2GNTzZYMWZULUdKa1E) (those adopted so far - more in progress)
+* [Corporate policies](policy)
 * Legal representation: [Nixon Peabody summary of engagement](https://docs.google.com/document/d/1FfLTCkzP1OfdgahDmlztjCIqAurYzwzkjgug5fXxjkM/view)
 * [Minutes of the Board of Directors](https://drive.google.com/drive/folders/0BzPWVMj9wWa6MVhCTGo5b1hwLVk?usp=sharing)
 
