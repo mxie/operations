@@ -1,6 +1,6 @@
-# BridgeFoundry Operations Guide
+# Bridge Foundry Operations Guide
 
-## What is BridgeFoundry? See [bridgefoundry.org.](https://bridgefoundry.org/)
+## What is Bridge Foundry? See [bridgefoundry.org.](https://bridgefoundry.org/)
 
 BridgeFoundry empowers people with technology through teaching and
 facilitating access, enlarging the community of people who give back
@@ -14,7 +14,7 @@ The operations guide contains information to help you:
 
 - [Receive grants from BridgeFoundry](grants/README.md) for your workshop or Bridge.
 
-- [Understand different formal titles within BridgeFoundry](roles/README.md), including Volunteer Bridge Leader, Independent Community, Chapter, and more.
+- [Understand different formal titles within Bridge Foundry](roles/README.md), including Volunteer Bridge Leader, Independent Community, Chapter, and more.
 
 - [Spend money on events or a Bridge.](using-funds/README.md)
 
