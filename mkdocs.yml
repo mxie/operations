@@ -6,6 +6,7 @@ pages:
 - "Home": 'index.md'
 - "Roles":
     - "Overview": 'roles/README.md'
+    - "Administrative support policies" : 'roles/administrative-support-policies.md'
     - "Bridge leader policies": 'roles/bridge-leader-policies.md'
     - "Chapter leader policies": 'roles/chapter-leader-policies.md'
     - "Program leader policies": 'roles/program-leader-policies.md'
