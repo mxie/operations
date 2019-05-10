@@ -12,10 +12,10 @@ Naming note: so we can explore IP protections and in the future accept checks fo
 Separate from the creation and availability of curricula for a particular technology, volunteers may opt to create a Bridge leadership board, so they may promote use of a particular curriculum and provide deeper guidance and support for curriculum users. Bridge Leaders complete our [Volunteer Agreement](https://rebrand.ly/bridge-foundry-volunteer-agreement), which references specific [Bridge Leader Policies](https://rebrand.ly/operational-bridges-policies).
 
 ## Independent Community
-Most of the groups we work with are Independent Communities (usually referred to as “Communities” for short). Communities use a Bridge curriculum, agree to our Workshop Guidelines, and align themselves publicly with Bridge Foundry by using one of our official names (like RailsBridge, ClojureBridge, etc).  They are not legally part of Bridge Foundry, Inc. but we support them in a variety of ways, as requested, including our Bridge Troll registration system, guidance and grants.
+Most of the groups we work with are Independent Communities (usually referred to as “Communities” for short). Communities use a Bridge curriculum, agree to our Workshop Guidelines, and align themselves publicly with Bridge Foundry by using one of our official names (like RailsBridge, ClojureBridge, etc).  They are not legally part of Bridge Foundry, Inc. but we support them in a variety of ways, as requested, including guidance, grants, and access to our online resources. 
 
 ## Chapter
-Chapters have a lot in common with Communities. They agree to our Workshop Guidelines and use a version of one of our official names. They can access the same resources like fundraising advice and use of Bridge Troll. They also have some additional benefits:
+Chapters have a lot in common with Communities. They agree to our Workshop Guidelines and use a version of one of our official names. They can access the same resources like fundraising advice and use of [Bridge Troll](http://bridgetroll.org). They also have some additional benefits:
 * Access to finance infrastructure, such as Pex cards and online donation processing through their website
 * Access to the benefits of being part of a nonprofit organization, which can include things like discounts and access to some in-kind gifts
 * In the future, active Bridge Foundry Chapters will also be covered by our liability insurance, in the unlikely event that there’s some kind of legal action.
