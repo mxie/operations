@@ -44,9 +44,9 @@ Volunteer fundraisers are just what they sound like: individuals can help raise 
 We have inspired a global movement, with workshops using Bridge curriculum offered around the world. Yet there are logistical limits to the activities our formal US corporation can directly pursue in other countries. At this time, we are not able to legally operate in other countries, so international groups cannot become Chapters. We also cannot provide grants to individuals in other countries, so international Communities aren’t currently eligible for financial grants. We do have communities with relationships with nonprofits in other countries, and we’re learning about whether we could extend those relationships to help more Communities internationally. 
 
 What international groups CAN do is:
-* Operate as an Independent Community and make use of the non-financial resources we provide
-* Partner with a local nonprofit entity in your country to raise and receive money for workshops — please talk to us, if you are exploring this, so we can help share knowledge with other people in your country
-* Let us know if you are outside of the US and want financial support, as that helps us understand the need
+* Operate as an Independent Community and make use of open source and open online service we provide
+* If you are interested in further operational support outside of the US, please review [open issues](https://github.com/bridgefoundry/operations/labels/international) and if there is not one for your country, file a [new issue](https://github.com/bridgefoundry/operations/issues/new)
+
 
 ## How funding works for these roles
 
