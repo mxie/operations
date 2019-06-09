@@ -5,7 +5,13 @@ Most Bridges follow the original RailsBridge “viral workshop” model with ope
 
 When curricula are developed for a programming language or subject matter area or volunteers start to engage in this work, we traditionally choose a name that includes the word “Bridge.” For example, our curriculum for Ruby on Rails is referred to as “RailsBridge.”  
 
-Naming note: so we can explore IP protections and in the future accept checks for any Bridge, the current thinking is that all the Bridge names are technically synonymous with Bridge Foundry.
+Naming note: so we can explore IP protections and in the future accept checks for any Bridge, we consider all the Bridge names are technically synonymous with Bridge Foundry.
+
+# Overview
+
+The current structure of our organization is illustrated in [Bridge Foundry Operations Overview](https://docs.google.com/presentation/d/11sHrvM2X8mZZZwyAmE_gaXpevjPwbdFZsJU_42_ozFw/edit#slide=id.g3e0c2f787e_1_0)
+
+The officers and board of directors are identified in our [corporate docs](../corporate-docs/)
 
 # Roles
 ## Volunteer Bridge Leader
@@ -46,7 +52,6 @@ We have inspired a global movement, with workshops using Bridge curriculum offer
 What international groups CAN do is:
 * Operate as an Independent Community and make use of open source and open online service we provide
 * If you are interested in further operational support outside of the US, please review [open issues](https://github.com/bridgefoundry/operations/labels/international) and if there is not one for your country, file a [new issue](https://github.com/bridgefoundry/operations/issues/new)
-
 
 ## How funding works for these roles
 
