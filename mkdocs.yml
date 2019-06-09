@@ -4,6 +4,8 @@ repo_url: https://github.com/bridgefoundry/operations
 theme: 'readthedocs'
 pages:
 - "Home": 'index.md'
+- "Services":
+    - "Overview": 'services/README.md'
 - "Roles":
     - "Overview": 'roles/README.md'
     - "Administrative support policies" : 'roles/administrative-support-policies.md'
