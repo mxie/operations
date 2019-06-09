@@ -3,6 +3,10 @@
 Welcome to the Operations Guide for Bridge Foundry, Inc.,
 a US non-profit organization with a 501c3 designation.
 
+Our open source and online resources are freely available to anyone for use
+in furthering our mission. This support of independent communities all over the
+world is governed by open source license agreements and terms of service.
+
 For details about who runs our operations and writes this guide, see [CONTRIBUTING](CONTRIBUTING.md)
 
 ## About mkdocs + operations.bridgefoundry.org
