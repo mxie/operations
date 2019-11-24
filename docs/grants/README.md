@@ -8,4 +8,4 @@ In most cases, a [Volunteer Fundraiser](https://rebrand.ly/volunteer-fundraiser-
 In cases where you are unsuccessful in raising funds to support your workshop, you can still apply for a grant! We call these [Seed Fund Grants](https://github.com/bridgefoundry/operations/blob/master/grants/seed-grants.md) and they have their own approval process.
 
 ## Application
-In both cases, the process starts by filling out a [Grant Application](https://docs.google.com/a/ultrasaurus.com/forms/d/1npx6D7iFl6yx6kBVlYTOG1-PiWMsDiTx_TQWNri1WIk/viewform).
+In both cases, the process starts by filling out a [Grant Application](https://forms.gle/ikoVftWbnaTrncCt6).
