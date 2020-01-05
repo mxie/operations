@@ -3,7 +3,7 @@
 Once you have [raised donations](https://github.com/bridgefoundry/operations/tree/master/fundraising) or received a grant for your group's activities, there are a few things to keep in mind for spending the money.
 
 ## Approved Expenses
-All expenses must follow the [approved expenses policy](https://github.com/bridgefoundry/operations/blob/master/using-funds/approved-expenses-policy.md). When in doubt about whether something follows the policy, ask us!
+All expenses must follow the [approved expenses policy](approved-expenses-policy.md). When in doubt about whether something follows the policy, ask us!
 
 ## Documentation Requirements
 Receipts are required for all expenses, regardless of how they are paid for or the type of group you have. Plan ahead to make sure you can receive adequate documentation.
