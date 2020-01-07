@@ -9,9 +9,8 @@ Public information of the corporation
 
 Current Board of Directors:
 
-* Ilen Zazueta-Hall, Chair
+* Sarah Allen, Chair
 * Isa Herico
-* Sarah Allen
 * Melissa Xie
 
 Current corporate Officers:
@@ -45,3 +44,9 @@ We keep information with Personally Identifiable Information (PII) private.  Our
 * List of Director & Officer contact info (private doc shared with Board of Directors and Officers)
 * Financial Records will be kept in an online accounting system
 * Full version of our 990s that include PII (private doc shared with Board of Directors and Officers)
+
+## History
+
+* Ilen Zazueta-Hall, Chair 1/10/2018-12/31/2019
+* Karen Herreid, Treasurer
+
